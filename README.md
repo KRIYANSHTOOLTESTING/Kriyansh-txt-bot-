@@ -1,5 +1,5 @@
 <h1 align="center">
- @DOCTOR_JB
+ @KRIYANSH_CHOUDHARY
 </h1>
 
 <p align="center">
